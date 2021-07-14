@@ -9,3 +9,5 @@ tk==8.6.10
 pywin32==227
 pywin32-ctypes==0.2.0
 matplotlib==3.3.2
+
+There should be an additional 'raw_data' folder containing 4 data files.
